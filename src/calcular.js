@@ -14,5 +14,6 @@ function calcular(num1, num2, operador) {
 }
 
 
+
 //NÃO REMOVA O CÓDIGO ABAIXO
 module.exports = { calcular };

@@ -10,7 +10,15 @@
 function adivinharNumero(max, palpite) {
   // TODO: implementar função
 }
+palpite = 3
 
+if (palpite=3){
+  return "acertou"
+}
+
+else{
+  return 'Errou!Tente novamente'
+}
 
 // NÃO REMOVA O CÓDIGO ABAIXO
 module.exports = { adivinharNumero };

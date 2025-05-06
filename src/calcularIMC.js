@@ -16,5 +16,10 @@ function calcularIMC(peso, altura) {
   // TODO: implementar função
 }
 
+
+const IMC= peso/ (altura*altura)
+exports.IMC = IMC
+
+
 // NÃO REMOVA O CÓDIGO ABAIXO
 module.exports = { calcularIMC };

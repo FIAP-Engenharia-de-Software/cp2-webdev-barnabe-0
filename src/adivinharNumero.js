@@ -10,6 +10,7 @@
 function adivinharNumero(max, palpite) {
   // TODO: implementar função
 }
+Number.parseFloat.max=10
 palpite = 3
 
 if (palpite=3){
